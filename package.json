@@ -1,0 +1,15 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Impossible-to-debug JS game engine",
+  "main": "engine.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "k3d1rr",
+  "license": "none",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
